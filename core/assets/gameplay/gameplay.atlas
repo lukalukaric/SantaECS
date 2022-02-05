@@ -1,0 +1,41 @@
+
+gameplay.png
+size: 1024, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 2
+  size: 640, 480
+  orig: 640, 480
+  offset: 0, 0
+  index: -1
+cookieSanta
+  rotate: false
+  xy: 644, 418
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+present
+  rotate: false
+  xy: 644, 302
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+santa
+  rotate: false
+  xy: 644, 352
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+snowman
+  rotate: false
+  xy: 710, 418
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
